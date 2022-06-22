@@ -9,3 +9,4 @@ Instructions about our submission:
 --> Hmatrix2.txt is 3000*5000 H matrix.
 --> Presentation is given in both the formats.
 --> We also solved the issues mentioned by sir while we were presenting our project.
+--> Matrix.zip has the three required matrix. It was too big to be added as a folder, hence the zip is uploaded.
